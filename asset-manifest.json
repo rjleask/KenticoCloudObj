@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KenticoCloudObj/static/css/main.795991f2.chunk.css",
+    "main.js": "/KenticoCloudObj/static/js/main.7d1257a5.chunk.js",
+    "main.js.map": "/KenticoCloudObj/static/js/main.7d1257a5.chunk.js.map",
+    "runtime~main.js": "/KenticoCloudObj/static/js/runtime~main.61581a89.js",
+    "runtime~main.js.map": "/KenticoCloudObj/static/js/runtime~main.61581a89.js.map",
+    "static/css/2.266e55a5.chunk.css": "/KenticoCloudObj/static/css/2.266e55a5.chunk.css",
+    "static/js/2.3a0ff87b.chunk.js": "/KenticoCloudObj/static/js/2.3a0ff87b.chunk.js",
+    "static/js/2.3a0ff87b.chunk.js.map": "/KenticoCloudObj/static/js/2.3a0ff87b.chunk.js.map",
+    "index.html": "/KenticoCloudObj/index.html",
+    "precache-manifest.66f59ae729a635f44543f6407ab70946.js": "/KenticoCloudObj/precache-manifest.66f59ae729a635f44543f6407ab70946.js",
+    "service-worker.js": "/KenticoCloudObj/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/KenticoCloudObj/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.795991f2.chunk.css.map": "/KenticoCloudObj/static/css/main.795991f2.chunk.css.map"
+  }
+}
